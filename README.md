@@ -85,6 +85,7 @@ Output Waveform
 
 
 TABULATION:
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b211f98a-4ebd-44a3-8964-17c3f30d2e12" />
 
 
 
